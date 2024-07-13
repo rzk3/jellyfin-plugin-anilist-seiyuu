@@ -1,10 +1,10 @@
-name: "AniList"
-guid: "1bd22884-44be-40f3-ad95-fc4a7834ba2c"
+name: "AniList-Studio"
+guid: "c0de98ad-a1a5-4d2f-9b6d-383742f4d910"
 imageUrl: "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anilist.png"
 version: 9
 targetAbi: "10.9.0.0"
 framework: "net8.0"
-owner: "jellyfin"
+owner: "rzk3"
 overview: "AniList metadata provider"
 description: >
   AniList metadata provider
